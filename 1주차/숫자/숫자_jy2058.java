@@ -1,3 +1,5 @@
+package 숫자;
+
 import org.omg.Messaging.SyncScopeHelper;
 
 import java.io.BufferedReader;
@@ -5,7 +7,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ_10093_jy2058 {
+public class 숫자_jy2058 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());

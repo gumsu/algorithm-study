@@ -1,8 +1,10 @@
+package 숫자의개수;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BOJ_2577_jy2058 {
+public class 숫자의개수_jy2058 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int A = Integer.parseInt(br.readLine());
