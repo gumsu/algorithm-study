@@ -9,11 +9,7 @@ import java.util.StringTokenizer;
 public class 색종이_jy2058 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        Boolean[][] book = new Boolean[100][100];
-        for(Boolean[] a : book){
-            Arrays.fill(a, false);
-        }
-
+        boolean[][] book = new boolean[100][100];
         StringTokenizer st = null;
         int num = Integer.parseInt(br.readLine());
         int cnt = 0;
