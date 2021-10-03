@@ -7,7 +7,7 @@ for _ in range(n):
     a, b = map(int, input().split())
     graph[a-1].append(b)
     graph[b-1].append(a)
-
+# -----------------------
 visited = [False] * c
 cnt = 0
 
@@ -23,3 +23,5 @@ def dfs(x):
 
 dfs(1)
 print(cnt-1)
+
+# 전역변수...
