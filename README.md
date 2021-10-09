@@ -56,7 +56,7 @@ Week_PS
 ---
 문제 유형
 - Implementation
-- DFS
+- Binary Search
 - BFS
 
 | <center>문제</center> | <center>티어</center> | <center>link</center> |
@@ -73,7 +73,7 @@ Week_PS
 ---
 문제 유형
 - Implementation
-- Binary Search
+- DFS
 - BFS
 
 | <center>문제</center> | <center>티어</center> | <center>link</center> |

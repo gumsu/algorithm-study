@@ -2,7 +2,7 @@
 ---
 문제 유형
 - Implementation
-- DFS
+- Binary Search
 - BFS
 
 | <center>문제</center> | <center>티어</center> | <center>link</center> |
