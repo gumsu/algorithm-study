@@ -1,4 +1,4 @@
-# 틀린 풀이
+# 시간 초과..
 
 n = int(input())
 solutions = list(map(int, input().split()))
@@ -14,8 +14,8 @@ for i in range(n-2):
 
     while (start < end):
         # 합의 절대값 (임시)
-        tmp_total = abs(solutions[i]+solutions[start]+solutions[end])
-        if tmp_total < total:
+        tmp_total = solutions[i]+solutions[start]+solutions[end]
+        if abs(tmp_total) < abs(total):
             total = tmp_total
             result[0] = solutions[i]
             result[1] = solutions[start]
