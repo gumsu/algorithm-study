@@ -22,7 +22,9 @@
 
 <table>
   <tr>
-
+    <td align="center"><a href="https://github.com/gumsu"><img src="https://avatars.githubusercontent.com/u/49813916?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gumsu</b></sub></a><br /><a href="https://github.com/gumsu/algorithm-study/commits?author=gumsu" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/monadk"><img src="https://user-images.githubusercontent.com/49813916/141112920-78eb7ca1-0a5e-48e4-8425-b6df29023091.png" width="100px;" alt=""/><br /><sub><b>Monad</b></sub></a><br /><a href="https://github.com/gumsu/algorithm-study/commits?author=monadk" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/s2jung"><img src="https://user-images.githubusercontent.com/49813916/141113206-9ede3574-b617-47d8-bcb4-7ab436f544e6.png" width="100px;" alt=""/><br /><sub><b>s2jung</b></sub></a><br /><a href="https://github.com/gumsu/algorithm-study/commits?author=s2jung" title="Code">💻</a></td>
   </tr>
 </table>
     
@@ -50,6 +52,19 @@ Week_PS
 | <center>문제</center> | <center>티어</center> | <center>link</center> |
 | ------ | ------ |------ |
 | ? | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/?.svg" width="16px;"> | https://www.acmicpc.net/problem/? |
+---
+
+### 10주차
+---
+문제 유형
+- Backtraking
+- Graph
+
+| <center>문제</center> | <center>티어</center>                                                       | <center>link</center>                |
+| --------------------- | --------------------------------------------------------------------------- | ------------------------------------ |
+| 외판원 순회 2          | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="16px;">  | https://www.acmicpc.net/problem/10971 |
+| 경로 찾기       | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="16px;"> | https://www.acmicpc.net/problem/11403 |
+| N-Queen                | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="16px;"> | https://www.acmicpc.net/problem/9663 |
 ---
 
 ### 9주차
